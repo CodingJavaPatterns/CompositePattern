@@ -1,0 +1,2 @@
+# CompositePattern
+Composite Java Pattern
